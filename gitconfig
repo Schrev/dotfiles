@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ruy.schneider@icloud.com
+	name = Ruy Schneider
